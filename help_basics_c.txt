@@ -1,0 +1,10 @@
+# Compile: 
+	gcc filename.c -o filename
+	e.g, 
+		gcc test.c -o test
+		// here test is the compiled file.
+		// it can be named as anything.
+# Run:
+	./filename
+	e.g, 
+		./test
